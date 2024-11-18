@@ -15,3 +15,9 @@ Unity Pay is a comprehensive payment gateway platform designed for seamless and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YashJsh/Unity-Pay.git
+2. Navigate to each folder and install dependencies:
+    - **Backend**: cd backend && npm install
+    - **Frontend** cd frontend && npm install
+3. Start the servers:
+    - **Backend**: npm run start
+    - **Frontend**: npm run start
